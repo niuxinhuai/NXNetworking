@@ -2,11 +2,9 @@
 Pod::Spec.new do |s|
   s.name             = 'NXNetworking'
   s.version          = '0.1.1'
-  s.summary          = 'A short description of NXNetworking.'
+  s.summary          = '简介'
 
   s.description      = '芳芳小仙女'
-TODO: Add long description of the pod here.
-                       DESC
 
   s.homepage         = 'https://github.com/niuxinhuai/NXNetworking'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
