@@ -25,7 +25,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - NXNetworking (0.1.0):
+  - NXNetworking (0.1.1):
     - AFNetworking
 
 DEPENDENCIES:
@@ -44,7 +44,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   AFNetworking: 8dd5f9b9691e09186393069a12cc3b5ed7c8b511
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  NXNetworking: 28b337b4e24bf46314cb1176da3b63aeb1388222
+  NXNetworking: c864188f4ff3d0b5b0ab54181c9a897bee62d616
 
 PODFILE CHECKSUM: 59b0bdf67ba2184e6af6448e60832e81929011fb
 
