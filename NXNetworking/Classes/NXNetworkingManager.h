@@ -14,6 +14,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (void)testPrint:(NSString *)text;
 
+- (void)config;
+
 @end
 
 NS_ASSUME_NONNULL_END

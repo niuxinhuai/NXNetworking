@@ -12,6 +12,11 @@
 
 - (void)testPrint:(NSString *)text {
     NSLog(@">>>>>>>>>>>>>NXNetworkingManager->print:%@",text);
+    [self config];
+}
+
+- (void)config {
+    NSLog(@">>>>>>>>>>>版本2");
 }
 
 @end

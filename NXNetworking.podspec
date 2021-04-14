@@ -1,10 +1,10 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NXNetworking'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of NXNetworking.'
 
-  s.description      = <<-DESC
+  s.description      = '芳芳小仙女'
 TODO: Add long description of the pod here.
                        DESC
 
